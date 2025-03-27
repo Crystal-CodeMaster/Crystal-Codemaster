@@ -6,6 +6,10 @@
   <!-- Web & CMS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="80" height="80"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/webflow.png" width="80" height="80"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/ecommerce.png" width="80" height="80"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/wix.png" width="80" height="80"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/database.png" width="80" height="80"/> <!-- Placeholder for WebDump -->
   
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80"/>
