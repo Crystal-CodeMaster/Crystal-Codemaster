@@ -36,21 +36,28 @@
       <td align="center" width=110>Vue</td>
       <td align="center" width=110>Next.js</td>
     </tr>
+  </table>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="4">Databases</th>
+      </tr>
+    </thead>
     <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
-      <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/> </td>
-    <tr> 
-      <td align="center" width=110>PostgreSQL</td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"/> </td>
+    </tr>
+    <tr align="center"> 
       <td align="center" width=110>MySQL</td>
+      <td align="center" width=110>PostgreSQL</td>
       <td align="center" width=110>SQLite</td>
-      <td align="center" width=110>Ba$h</td>
-      <td align="center" width=110>Markdown</td>
+      <td align="center" width=110>MongoDB</td>
+      <td align="center" width=110>MariaDB</td>
     </tr>
   </table>
-
   <table>
     <thead>
       <tr>
@@ -127,22 +134,6 @@
       <td align="center" width=110>Jupyter</td>
       <td align="center" width=110>Jira</td>
       <td align="center" width=110>CodePen</td>
-    </tr>
-  </table>
-  <table>
-    <thead>
-      <tr>
-        <th colspan="7">Operating Systems</th>
-      </tr>
-    </thead>
-    <tr>
-      <td align="center" width=110><img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/> </td>
-    <tr> 
-      <td align="center" width=110>Windows</td>
-      <td align="center" width=110>Linux</td>
-      <td align="center" width=110>Ubuntu</td>
     </tr>
   </table>
 </div>
