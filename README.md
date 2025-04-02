@@ -23,6 +23,20 @@
       <td align="center" width=110>HTML</td>
     </tr>
     <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </td>
+    </tr>
+    <tr align="center"> 
+      <td align="center" width=110>Laravel</td>
+      <td align="center" width=110>WordPress</td>
+      <td align="center" width=110>React</td>
+      <td align="center" width=110>Vue</td>
+      <td align="center" width=110>Next.js</td>
+    </tr>
+    <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> </td>
       <td align="center" width=110> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/> </td>
