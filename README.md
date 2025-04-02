@@ -130,7 +130,6 @@
       <td align="center" width=110>Windows</td>
       <td align="center" width=110>Linux</td>
       <td align="center" width=110>Ubuntu</td>
-      <td align="center" width=110>Debian</td>
     </tr>
   </table>
 </div>
