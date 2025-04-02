@@ -81,9 +81,12 @@
       <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> </td>
+        <td><img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" /></td>
       <tr align="center"> 
         <td align="center" width=110>Bootstrap</td>
         <td align="center" width=110>JQuery</td>
+        <td align="center" width=110>Tailwind</td>
+        
       </tr>
     </tr>
   </table>
