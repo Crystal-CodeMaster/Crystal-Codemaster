@@ -40,7 +40,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="4">Databases</th>
+        <th colspan="7">Databases</th>
       </tr>
     </thead>
     <tr>
