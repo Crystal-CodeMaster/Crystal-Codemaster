@@ -5,7 +5,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="7">Languages</th>
+        <th colspan="9">Languages</th>
       </tr>
     </thead>
     <tr>
