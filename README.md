@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/> </td>
-      <td align="center" width=110><img src="https://techstack-generator.vercel.app/wp-icon.svg" width="110" height="60" align="center" /></td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </td>
