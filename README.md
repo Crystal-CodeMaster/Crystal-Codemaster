@@ -1,5 +1,23 @@
 # 👋 Hello, I am Here!
 <a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+
+<div style="display: flex; align-items: center">
+  <h1> 
+    About Me
+    <a href="#--about-me--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
+
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Crystal-codemaster&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
+
+
 ## Skills and Tools
 <div align="center">
   <table>
