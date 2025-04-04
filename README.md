@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Crystal-codemaster></a>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Crystal-codemaster"></a>
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
