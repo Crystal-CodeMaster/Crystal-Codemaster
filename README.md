@@ -162,10 +162,10 @@
 <tr>
 <td>
 <a href="https://github.com/omololevy/omololevy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=omololevy&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Crystal-codemaster&show_icons=true&line_height=27&count_private=true&title_color=f48c06&text_color=c9cacc&icon_color=2bbc8a&bg_color=000000" alt="Levy's GitHub Stats" />
 </td>
 <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omololevy&theme=highcontrast&layout=compact" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crystal-codemaster&theme=highcontrast&layout=compact" />
   </a>
 </td>
 </tr>
