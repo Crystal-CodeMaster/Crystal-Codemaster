@@ -11,7 +11,7 @@
   </h1>
 </div>
 
-<a href="#--about-me--">I am a Senior Full Stack Developer</a>
+I am a Senior Full Stack Developer
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
