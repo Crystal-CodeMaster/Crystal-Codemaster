@@ -10,12 +10,9 @@
     </a>
   </h1>
 </div>
-
-I am a Senior Full Stack Developer React | Laravel | Python,
-🌟 Bringing innovation to life through scalable, high-performance web applications.
-⚡ Passionate about creating seamless user experiences and optimizing complex systems.
-🤝 Let's build something extraordinary together!
-
+<p>🌟 Bringing innovation to life through scalable, high-performance web applications.  </p>
+<p>⚡ Passionate about creating seamless user experiences and optimizing complex systems.  </p>
+<p>🤝 Let's build something extraordinary together!</p>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
