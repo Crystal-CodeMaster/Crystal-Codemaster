@@ -11,7 +11,10 @@
   </h1>
 </div>
 
-I am a Senior Full Stack Developer
+I am a Senior Full Stack Developer React | Laravel | Python,
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+
+- React.js, Laravel, Python / Express, MongoDB, Redux, Vite, Material-TailwindCSS
 
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
